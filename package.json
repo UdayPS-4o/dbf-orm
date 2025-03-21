@@ -1,0 +1,29 @@
+{
+  "name": "dbf-orm",
+  "version": "1.0.0",
+  "description": "A fully-featured ORM for DBF files with custom implementation of the dbffile library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dbf",
+    "dbase",
+    "xbase",
+    "orm",
+    "database"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdayPS-4o/dbf-orm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UdayPS-4o/dbf-orm/issues"
+  },
+  "homepage": "https://github.com/UdayPS-4o/dbf-orm#readme"
+}
